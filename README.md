@@ -9,3 +9,7 @@ Los data set utilizados para este laboratorio, fuerón escogidos de la pagina Ka
 
 
 NeoWs (Near Earth Object Web Service) es un servicio web RESTful para información sobre asteroides cercanos a la Tierra. Con NeoWs, un usuario puede: buscar asteroides en función de su fecha de acercamiento más cercano a la Tierra, buscar un asteroide específico con su identificación de cuerpo pequeño JPL de la NASA, así como explorar el conjunto de datos general.
+
+**Hecho con ❤️ por**
+
+👦 **Juan Camilo Hernández Ibañez** - [CamiloHedzz](https://github.com/CamiloHedzz)
